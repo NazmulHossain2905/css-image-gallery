@@ -7,9 +7,14 @@
 ### Screenshot
 
 <a href="https://nazmulhossain2905.github.io/css-image-gallery/">
-  <img src='./Grid-Image-Gallery.png' alt='CSS Image Gallery' width='100%'>
+  <img src='./laptop.png' alt='CSS Image Gallery' width='100%'>
 </a>
 
+<br />
+
+<a href="https://nazmulhossain2905.github.io/css-image-gallery/">
+  <img src='./mobile.png' alt='CSS Image Gallery' width='80%'>
+</a>
 ### Using languages
 
 - HTML
