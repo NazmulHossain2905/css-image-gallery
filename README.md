@@ -12,9 +12,11 @@
 
 <br />
 <br />
+<br />
+<br />
 
 <a href="https://nazmulhossain2905.github.io/css-image-gallery/">
-  <img src='./mobile.png' alt='CSS Image Gallery' width='80%'>
+  <img src='./mobile.png' alt='CSS Image Gallery' width='60%'>
 </a>
 ### Using languages
 
